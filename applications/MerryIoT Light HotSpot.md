@@ -19,24 +19,30 @@ We started working with Helium in early 2020 with the introduction of our tabs o
 
 ## Product Information
 
-The MerryIot Hotspot Miner V1 is designed for edge computing applications in IoT, Smart Manufacturing, Automation, Blockchain and etc, to support high performance, high reliability and high throughput for the heavy data processing demand. 
-The MerryIot Hotspot Miner V1 is targeting at AIoT applications with quad A55 cores, G52 GPU hardware, based on Linux distribution. IoT solution providers can easily integrate advanced and stable functions for their application-centric development on their own IoT projects.
+The MerryIot Light Hotspot is designed for edge computing applications in IoT, Smart Manufacturing, Automation, Blockchain and etc, to support high performance, high reliability and high throughput for the heavy data processing demand. 
+The MerryIot Light Hotspot is targeting at AIoT applications with quad A55 cores, G52 GPU hardware, based on Linux distribution. IoT solution providers can easily integrate advanced and stable functions for their application-centric development on their own IoT projects.
 
 Product Status: In Development. First prototypes to be built shortly. Mass production starting in Mid-October 2021 with 10K units quantity per month for Oct, Nov and December 2021.  Estimated Price: $499
 
+![spot](https://user-images.githubusercontent.com/47768386/165702898-a969cebb-0f54-48c4-9520-0d4835686675.jpg)
+
 Please find the preliminary HW interfaces:
 
-1. 4G DDR, 32GB Flash
-2. LED x4
-3. Reset Button
-4. Ethernet(100/1000 Mbps)
-5. LoRa 8 channles
-6. DC jack in
-7. USB Type-A 2.0
-8. TF card slot
+1. CPU Quad-core Cortex-A55
+2. SX1303/SX1302/SX1301
+3. Memory: DDR2 1GB
+4. Storage: Flash 8GB
+5. Power Supply: DC12V 1.5A
+6. LED x4
+7. Pair Button
+8. Ethernet
 9. WiFi 802.11 b/g/n
-10. BLE 5.2
-11. SX1302 with SX1250
+10. GPS(option)
+11. LoRa 8 channles
+12. DC power supply
+13. Security chip: ECC608 
+14. USB Type-A 2.0
+15. BLE 5.2
 
 ## Customer Support
 
