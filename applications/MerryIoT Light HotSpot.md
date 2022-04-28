@@ -1,4 +1,4 @@
-# Copyright © 2021 Browan Communications Inc.
+# Copyright © 2022 Browan Communications Inc.
 ### Application to become an approved third party manufacturer as per [HIP19](https://github.com/helium/HIP/blob/master/0019-third-party-manufacturers.md)
 
 ## Summary
@@ -22,7 +22,8 @@ We started working with Helium in early 2020 with the introduction of our tabs o
 The MerryIot Light Hotspot is designed for edge computing applications in IoT, Smart Manufacturing, Automation, Blockchain and etc, to support high performance, high reliability and high throughput for the heavy data processing demand. 
 The MerryIot Light Hotspot is targeting at AIoT applications with quad A55 cores, G52 GPU hardware, based on Linux distribution. IoT solution providers can easily integrate advanced and stable functions for their application-centric development on their own IoT projects.
 
-Product Status: In Development. First prototypes to be built shortly. Mass production starting in Mid-October 2021 with 10K units quantity per month for Oct, Nov and December 2021.  Estimated Price: $499
+Product Status: In Development. First prototypes to be built shortly. Mass production starting in June 2022 with 20K units quantity per month.  
+Estimated Price: $499
 
 ![spot](https://user-images.githubusercontent.com/47768386/165702898-a969cebb-0f54-48c4-9520-0d4835686675.jpg)
 
@@ -91,8 +92,8 @@ Sourcing components continues to be challenging in the current market – severa
 * Regions covered / shipped to – Worldwide
 
 - expected ship date
-October 2021
+June 2022
 - Country / region support 
-US/ EU/ AU
+US/EU/AU/AS923
 - expected price point(Please contact with Browan sale Moha mohd@browan.com)
-- likely production quantities: 25,000 units in 2021. 
+- likely production quantities: 250,000 units in 2022. 
