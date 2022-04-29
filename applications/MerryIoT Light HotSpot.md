@@ -20,17 +20,18 @@ We started working with Helium in early 2020 with the introduction of our tabs o
 ## Product Information
 
 The MerryIot Light Hotspot is designed for edge computing applications in IoT, Smart Manufacturing, Automation, Blockchain and etc, to support high performance, high reliability and high throughput for the heavy data processing demand. 
-The MerryIot Light Hotspot is targeting at AIoT applications with quad A55 cores, G52 GPU hardware, based on Linux distribution. IoT solution providers can easily integrate advanced and stable functions for their application-centric development on their own IoT projects.
+The MerryIOT Light S1/S2 is targeting at AIoT applications with quad A55 cores, G52 GPU hardware, based on Linux distribution. IoT solution providers can easily integrate advanced and stable functions for their application-centric development on their own IoT projects.
 
 Product Status: In Development. First prototypes to be built shortly. Mass production starting in June 2022 with 20K units quantity per month.  
-Estimated Price: $499
+Estimated Price: TBD
 
 ![spot](https://user-images.githubusercontent.com/47768386/165702898-a969cebb-0f54-48c4-9520-0d4835686675.jpg)
 
 Please find the preliminary HW interfaces:
 
+MerryIOT Light S1:
 1. CPU Quad-core Cortex-A55
-2. SX1303/SX1302/SX1301
+2. SX1302
 3. Memory: DDR2 1GB
 4. Storage: Flash 8GB
 5. Power Supply: DC12V 1.5A
@@ -38,7 +39,23 @@ Please find the preliminary HW interfaces:
 7. Pair Button
 8. Ethernet
 9. WiFi 802.11 b/g/n
-10. GPS(option)
+10. LoRa 8 channles
+11. DC power supply
+12. Security chip: ECC608 
+13. USB Type-A 2.0
+14. BLE 5.2
+
+MerryIOT Light S2:
+1. CPU Quad-core Cortex-A55
+2. SX1303
+3. Memory: DDR2 1GB
+4. Storage: Flash 8GB
+5. Power Supply: DC12V 1.5A
+6. LED x4
+7. Pair Button
+8. Ethernet
+9. WiFi 802.11 b/g/n
+10. GPS
 11. LoRa 8 channles
 12. DC power supply
 13. Security chip: ECC608 
@@ -59,7 +76,7 @@ Additionally our engineers and technicians span the globe, thus we can cover mul
 
 ## Hardware Security
 
-For our current product, MerryIot Hotspot Miner V1 - we have adopted the ECC608 security element chip to increase the security of the swarm key.
+For our current product, MerryIOT Light S1/S2 - we have adopted the ECC608 security element chip to increase the security of the swarm key.
 
 For future products we are evaluating more options including other security element chips.
 
